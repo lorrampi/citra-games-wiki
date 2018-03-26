@@ -1,0 +1,19 @@
+title = "Culdcept Revolt"
+description = "As the Culdcept series celebrates its 20th Anniversary, the addictive card-meets-board game is back, bigger and better than ever with hundreds of new cards, inventive boards, and exciting multiplayer gameplay! Follow Allen, a new recruit for the rebel Free Bat forces as you fight for freedom from the tyranny of Count Kraniss. Build your deck, create new strategies, and dominate the board in Culdcept Revolt!"
+needs_system_files = true
+needs_shared_font = false
+
+[[releases]]
+title = "00040000001BCA00"
+region = "eur"
+release_date = "2017-10-06"
+
+[[releases]]
+title = "00040000001BEC00"
+region = "usa"
+release_date = "2017-10-03"
+
+[[releases]]
+title = "00040000000F5700"
+region = "jpn"
+release_date = "2016-07-07"
